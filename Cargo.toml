@@ -7,7 +7,7 @@ edition = "2021"
 
 [dependencies]
 clap = { version = "4.1.6", features = ["derive"] }
-#rtshark = "2.3.0"
+rtshark = "2.4.0"
 
-[dependencies.rtshark]
-path = "../rtshark"
+#[dependencies.rtshark]
+#path = "../rtshark"
