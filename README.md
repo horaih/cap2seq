@@ -17,9 +17,6 @@ cap2sec is used to generate a sequence diagram for 5G system. The project is aim
   $ git clone https://github.com/horaih/cap2seq.git
   $ cd cap2seq
   $ cargo run -- --help
-   Compiling cap2seq v0.1.0 (/home/horai/repos/cap2seq)
-    Finished dev [unoptimized + debuginfo] target(s) in 6.12s
-     Running `target/debug/cap2seq --help`
   Usage: cap2seq [OPTIONS] --pcapfile <PCAPFILE>
 
   Options:
